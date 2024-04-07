@@ -1,3 +1,6 @@
 [submodule "user-service"]
 	path = user-service
 	url = https://github.com/soupayand/user-service
+[submodule "product-service"]
+	path = product-service
+	url = https://github.com/soupayand/product-service
